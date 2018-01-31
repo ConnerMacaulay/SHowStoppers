@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\WorldSettings.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\WorldSettings.cs" Line="39" Column="17" />
+      <File FileName="Assets\Resources\Scripts\Ground.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\BallForce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FireBall Scripts\FireBall3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FireBall Scripts\FireBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FireBall Scripts\FireBall1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FireBall Scripts\FireBall2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Player Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Player Scripts\Player1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Player Scripts\Player2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Player Scripts\Player3.cs" Line="91" Column="1" />
+      <File FileName="Assets\Resources\Scripts\BallMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Player1.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/FireBall1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Player1.cs" Line="88" Column="29" />
+      <File FileName="Assets/Resources/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/BallForce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/BallCollisions.cs" Line="22" Column="2" />
+      <File FileName="Assets/Resources/Scripts/BallMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
